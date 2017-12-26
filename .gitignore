@@ -1,3 +1,7 @@
+*.html
+makefile
+*.css
+
 *.bak
 *.DS_Store
 *.xdv
